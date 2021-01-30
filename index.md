@@ -8,7 +8,7 @@
 ---
 
 ### [Wine seen from Chemistry](/Wine)
-<img src="images/wine.png?raw=true"/>
+<img src="images/pr2.png?raw=true"/>
 
 ---
 
