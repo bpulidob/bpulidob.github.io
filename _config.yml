@@ -1,9 +1,10 @@
 title: Belén Pulido # your name (or website title) here
-logo: "/images/logo.jpg?raw=true" # your photo (or logo) here
+logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Advanced Analytics Consultant with a remarkable background in Mathematics and Statistics.
   <br><br>
-  <a href="https://www.linkedin.com/in/belen-pulido-bravo/">View My LinkedIn Profile</a> 
+  <img src= "/images/linkedin.png" height="16" width="16">
+  <a href="https://www.linkedin.com/in/belen-pulido-bravo/">LinkedIn</a> 
   
 theme: jekyll-theme-minimal
 # google_analytics: UA-000000-0 # your Google Analytics tracking ID here
