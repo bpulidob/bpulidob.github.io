@@ -13,7 +13,7 @@
 ---
 
 ### [Human Activity Recognition](/Human_Activity_Recognition)
-<img src="images/pr3.png?raw=true"/>
+<img src="images/pr3.PNG?raw=true"/>
 
 ---
 
